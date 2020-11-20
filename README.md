@@ -7,154 +7,131 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (1).pdf" style="text-decoration:none;">Learning to Select Knowledge for Response Generation in Dialog Systems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (2).pdf" style="text-decoration:none;">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (3).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (4).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (5).pdf" style="text-decoration:none;">Sequence to Sequence Learning
+with Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (6).pdf" style="text-decoration:none;">Neural Turing Machines</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (7).pdf" style="text-decoration:none;">Neural Responding Machine for Short-Text Conversation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (8).pdf" style="text-decoration:none;"> Learning to Transduce with Unbounded Memory </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (9).pdf" style="text-decoration:none;">A Neural Conversational Model</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (10).pdf" style="text-decoration:none;">A Neural Network Approach to
+Context-Sensitive Generation of Conversational Responses </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (11).pdf" style="text-decoration:none;">Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (12).pdf" style="text-decoration:none;">Diversity-Promoting Objective Function for Neural Conversation Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (13).pdf" style="text-decoration:none;">Attention with Intention for a Neural Network Conversation Model</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (14).pdf" style="text-decoration:none;">Neural GPUs Learn Algorithms</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (15).pdf" style="text-decoration:none;">A Survey of Available Corpora for Building Data-Driven Dialogue Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (16).pdf" style="text-decoration:none;">Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (17).pdf" style="text-decoration:none;">A Persona-Based Neural Conversation Model</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (18).pdf" style="text-decoration:none;">Incorporating Copying Mechanism in Sequence-to-Sequence Learning</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (19).pdf" style="text-decoration:none;">Latent Predictor Networks for Code Generation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (20).pdf" style="text-decoration:none;">How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (21).pdf" style="text-decoration:none;">StalemateBreaker: A Proactive Content-Introducing Approach to Automatic Human-Computer Conversation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (22).pdf" style="text-decoration:none;">A Network-based End-to-End Trainable Task-oriented Dialogue System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (23).pdf" style="text-decoration:none;">A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (24).pdf" style="text-decoration:none;">Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (25).pdf" style="text-decoration:none;">An Attentional Neural Conversation Model with Improved Specificity</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (26).pdf" style="text-decoration:none;">Deep Reinforcement Learning for Dialogue Generation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (27).pdf" style="text-decoration:none;">Sequence-to-Sequence Learning
+as Beam-Search Optimization</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (28).pdf" style="text-decoration:none;">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (29).pdf" style="text-decoration:none;">Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (30).pdf" style="text-decoration:none;">Topic Aware Neural Response Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (31).pdf" style="text-decoration:none;">Sequence to Backward and Forward Sequences: A Content-Introducing Approach to Generative Short-Text Conversation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (32).pdf" style="text-decoration:none;">Neural Discourse Modeling of Conversations</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (33).pdf" style="text-decoration:none;">Neural Contextual Conversation Learning with Labeled Question-Answering Pairs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (34).pdf" style="text-decoration:none;">Layer Normalization</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (35).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (36).pdf" style="text-decoration:none;">HyperNetworks</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (37).pdf" style="text-decoration:none;">Two are Better than One:
+An Ensemble of Retrieval- and Generation-Based Dialog Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (38).pdf" style="text-decoration:none;">Can Active Memory Replace Attention?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (39).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (40).pdf" style="text-decoration:none;">Neural Architecture Search with Reinforcement Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (41).pdf" style="text-decoration:none;">Unsupervised Pretraining for Sequence to Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (42).pdf" style="text-decoration:none;">Dialogue Learning With Human-In-The-Loop</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (43).pdf" style="text-decoration:none;">Deep Active Learning for Dialogue Generation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (44).pdf" style="text-decoration:none;">
+Learning through Dialogue Interactions by Asking Questions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (45).pdf" style="text-decoration:none;">RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (46).pdf" style="text-decoration:none;">Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (47).pdf" style="text-decoration:none;">A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (48).pdf" style="text-decoration:none;">Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (49).pdf" style="text-decoration:none;">Adversarial Learning for Neural Dialogue Generation</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (50).pdf" style="text-decoration:none;">Hierarchical Recurrent Attention Network for Response Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (51).pdf" style="text-decoration:none;">A Knowledge-Grounded Neural Conversation Model </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (52).pdf" style="text-decoration:none;">Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (53).pdf" style="text-decoration:none;">Batch Policy Gradient Methods for Improving Neural Conversation Models</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (54).pdf" style="text-decoration:none;">Learning Conversational Systems that Interleave Task and Non-Task Content </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (55).pdf" style="text-decoration:none;">Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (56).pdf" style="text-decoration:none;">Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (57).pdf" style="text-decoration:none;">Not All Dialogues are Created Equal: Instance Weighting for Neural Conversational Models</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (58).pdf" style="text-decoration:none;">A Conditional Variational Framework for Dialog Generation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (59).pdf" style="text-decoration:none;">Chat Detection in an Intelligent Assistant: Combining Task-oriented and Non-task-oriented Spoken Dialogue Systems</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (60).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (61).pdf" style="text-decoration:none;">ParlAI: A Dialog Research Software Platform</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (62).pdf" style="text-decoration:none;">Adversarial Generation of Natural Language</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (63).pdf" style="text-decoration:none;">Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (64).pdf" style="text-decoration:none;">Depthwise Separable Convolutions for Neural Machine Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (65).pdf" style="text-decoration:none;">Attention Is All You Need </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (66).pdf" style="text-decoration:none;">Deal or No Deal? End-to-End Learning for Negotiation Dialogues</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (67).pdf" style="text-decoration:none;">One Model To Learn Them All</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (68).pdf" style="text-decoration:none;">Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (69).pdf" style="text-decoration:none;">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (70).pdf" style="text-decoration:none;">DeepProbe: Information Directed Sequence Understanding and Chatbot Design via Recurrent Neural Networks</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Chatbot-Research-Papers/blob/master/chat (71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
